@@ -1,2 +1,2 @@
-# compass
+# chimpgame
 
